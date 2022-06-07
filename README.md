@@ -1,4 +1,4 @@
-Hello guys! 😎
+Hello guys!👋 I'm Kuba and:
 
 - 🔭 I’m currently working on system of data acquisition from smartphone sensors.
 - 🌱 I’m currently learning java.
