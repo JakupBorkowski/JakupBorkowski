@@ -1,7 +1,7 @@
 Hello guys!👋 I'm Kuba and:
 
 - 🔭 I’m currently working on system of data acquisition from USB-205 Device (more information in README file in repositories).
-- 🌱 I’m currently learning some C#.
+- 🌱 I’m currently learning some javascript/html/css.
 
 
 - 💬 Ask me about anything.
