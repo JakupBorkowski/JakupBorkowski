@@ -5,7 +5,7 @@ Hello guys!👋 I'm Kuba and:
 
 
 - 💬 Ask me about anything.
-- 📫 How to reach me: jakub.zdzislaw.borkowski@gmail.com
+- 📫 How to reach me: jakub.borkowski.zdzislaw@gmail.com
 
 Last Year:
 - I was working on system of data acquisition from smartphone sensors.
